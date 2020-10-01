@@ -1,4 +1,4 @@
-# Note: This project is defunct.
+# Note: This amazing project is defunct.
 It is left here purely for historical reference.
 
 Build Instructions
